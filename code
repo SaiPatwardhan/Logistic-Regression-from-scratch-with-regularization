@@ -95,3 +95,4 @@ plt.legend()
 plt.show() 
 # print(accuracy1)
 # print(accuracy2)
+
